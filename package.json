@@ -13,5 +13,10 @@
   },
   "dependencies": {
     "openai": "^4.87.3"
+  },
+  "packageManager": "yarn@4.6.0",
+  "volta": {
+    "node": "22.13.0",
+    "yarn": "4.6.0"
   }
 }
